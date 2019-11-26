@@ -104,9 +104,9 @@ class exit
 
 class craft
 {
-String name;
-int amount;
-int cost;
+	String name;
+	int amount;
+	int cost;
 }
 
 
